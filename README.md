@@ -4,13 +4,13 @@ This is a Python script that takes a URL of an online article as input and outpu
 # Dependencies
 The script requires the following Python packages:
 
-newspaper3k
-vaderSentiment
+newspaper3k  
+vaderSentiment  
 
 You can install them using pip:
 
-pip install newspaper3k
-pip install vaderSentiment
+pip install newspaper3k  
+pip install vaderSentiment  
 
 # Usage
 To run the script, simply execute it in your terminal:
