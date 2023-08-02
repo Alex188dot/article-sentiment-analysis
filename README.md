@@ -26,6 +26,6 @@ The script will then download and parse the article using the newspaper3k packag
 
 <img width="1315" alt="Screenshot1" src="https://github.com/Alex188dot/article-sentiment-analysis/assets/117444853/df8231c3-028b-4b1a-8f0c-ae6fef6b91d7">
 
-The Final Score indicates that the summary has a negative overall sentiment. The Final Score will always be between -1 (extremely negative) to 1 (extremely positive). 
+The Final Score indicates that the summary has an overall negative sentiment. The Final Score will always be between -1 (extremely negative) to 1 (extremely positive). 
 
 Please note only English language articles are supported. 
